@@ -1,2 +1,2 @@
 #!/bin/bash
-pearl -lne 'print if $. % 2 == q' 
+tr 'A-Za-z' 'N-ZA-Mn-za-m' 
