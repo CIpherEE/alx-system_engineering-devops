@@ -1,0 +1,2 @@
+#!/bin/bash
+oearl -lne 'print if $. % 2 == q' 
